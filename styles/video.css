@@ -41,7 +41,7 @@
         column-gap: 16px;
         row-gap: 40px;
        }
-
+/*
        @media (max-width: 600px) {
         .video-grid{
             grid-template-columns: 1fr 1fr;
@@ -54,7 +54,7 @@
         .video-grid{
             grid-template-columns: 1fr 1fr 1fr 1fr;
         }
-       }
+       }*/
        .video-info-grid{
         display: grid;
         grid-template-columns: 50px 1fr;
@@ -70,4 +70,5 @@
         bottom: 8px;
         right: 5px;
         color: white;
+
     }
